@@ -3,12 +3,9 @@ title: 关于
 icon: fas fa-info
 order: 4
 ---
-- ### Hi there 👋, I'm Tom!
+- ### Hello there, I'm Sprield1903!
 
-  - 🏫  _BSc in Computer Science_.
-  - 💻  I work on C / C++ / Java / Objective-C & Swift / Python / Markdown.
-  - 🧠  I used to take internship as an iOS developer at Bytedance Techonology.
-  - 🏖️  I will go to Shenzhen and work as a back-end engineer at Tencent.
-
-公众号: 汤姆还在写代码
+  - A rookie nearly know nothing about computer science.
+  - A undergraduate studying marine science.
+  - A skillful coder and scientist one day.
 
