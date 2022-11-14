@@ -2,7 +2,7 @@
 title: 通过MATLAB画GIF图并储存。
 date: 2022-11-13 10:34:00 +0800
 categories: [代码]
-tags: [MATLAB] [海洋科学]
+tags: [MATLAB]
 pin: true
 author: 湾区书记汤姆
 
