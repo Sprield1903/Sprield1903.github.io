@@ -174,7 +174,7 @@ end
 
 # 3. 运行结果
 
-$\frac{\Delta t}  {\Delta h^2}>\frac12$向前差分的稳定性出现问题，而向后差分的稳定性不受影响。
+$\frac{\Delta t}  {\Delta h^2}>\frac12$向前差分的稳定性出现问题，而向后差分的稳定性不受影响。<font color = red>(貌似博客不支持LaTeX的显示)</font>
 
 ## 3.1 时间上一阶向前差分
 
