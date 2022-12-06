@@ -1,8 +1,8 @@
 ---
 title: 《塞尔达传说：旷野之息》评测，完美的电子游戏，但远非第九艺术。
 date: 2022-12-06 14:34:00 +0800
-categories: [杂谈]
-tags: [游戏]
+categories: [游戏]
+tags: [随笔]
 pin: true
 author: Sprield1903
 
